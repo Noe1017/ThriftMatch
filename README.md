@@ -4,3 +4,4 @@
 - 服务分为三部分：分别是 game，match_system，save_server
 - game 为 match_client 端，通过 match.thrift 接口向 match_system 完成添加用户和删除用户的操作
 #### 所有者：Noe1017
+![game.jpg](https://git.acwing.com/ycr2022/thrift/-/raw/master/game.jpg)
